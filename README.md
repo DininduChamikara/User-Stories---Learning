@@ -34,6 +34,7 @@ So that, I can cancel my order
 
 
 ## Agile User Stories
+Video Link - https://www.youtube.com/watch?v=SRRQCDZQ6G4
 
 * User stories are an agile software development/ project management tool that provides users with simple, natural language explanations of one or more features written from the end-user's perspective.
 * User stories also form the building block of agile frameworks like epics and initiatives.
@@ -56,6 +57,25 @@ So that, I can cancel my order
 As a [role], I [want to], [so that]
 
 Eg: As a CEO, I want to track my subordinate's progress, to ensure the organization's goals are met.
+
+## The 3C's of User Stories
+
+1. Card - A card provides a written description of the story. This is used for planning and estimation.
+2. Conversation - This represents discussion between users, team, product owners, etc. It helps build a shared understanding.
+3. Confirmation - These represent conditions that the story meets all requirements.
+
+## Lifecycle of a User Story
+
+![image](https://github.com/DininduChamikara/User-Stories---Learning/assets/73112985/e891cc57-00ae-4ef5-afd5-350ad3b54443)
+
+
+## User Story Map
+
+![image](https://github.com/DininduChamikara/User-Stories---Learning/assets/73112985/503866c2-478e-4cfc-9063-cbb08af33354)
+
+
+
+
 
 
 
